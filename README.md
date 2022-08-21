@@ -3,3 +3,5 @@ This code rotates image by given angle, Image will be enlarged when rotating and
 
 This code mainly focuses on the logic of rotation, adding offset and removing extra offset from rotated image. Code is not optimum for Production as it contains for loops instead of opencv functions. One can use opencv functions to achieve faster results
 Others can inspire from the code and re-write it in any language
+
+This code is written from 8 bits greyscale image and can be easily converted for other file formats
